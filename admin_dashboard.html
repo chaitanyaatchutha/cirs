@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin Dashboard</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+    background:#f4f6f9;
+}
+
+header{
+    background:#004080;
+    color:white;
+    padding:20px;
+}
+header h1{
+    text-align:center;
+}
+
+header h2{
+    text-align:center;
+    margin-top:10px;
+}
+
+nav{
+    margin-top:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-size:18px;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+.container{
+    display:flex;
+}
+
+.sidebar{
+    width:230px;
+    background:#002147;
+    min-height:100vh;
+}
+
+.sidebar a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:15px 20px;
+}
+
+.sidebar a:hover{
+    background:#0056b3;
+}
+
+.content{
+    flex:1;
+    padding:25px;
+}
+
+.cards{
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+    margin-bottom:30px;
+}
+
+.card{
+    width:200px;
+    background:white;
+    border-radius:10px;
+    padding:20px;
+    text-align:center;
+    box-shadow:0 0 10px rgba(0,0,0,.15);
+}
+
+.card h3{
+    color:#003366;
+    margin-bottom:10px;
+}
+
+.card p{
+    font-size:28px;
+    color:#007BFF;
+    font-weight:bold;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+table th{
+    background:#004080;
+    color:white;
+}
+
+table th,
+table td{
+    border:1px solid #ddd;
+    padding:10px;
+    text-align:center;
+}
+
+table tr:nth-child(even){
+    background:#f8f8f8;
+}
+
+select{
+    padding:6px;
+}
+
+button{
+    background:#007BFF;
+    color:white;
+    border:none;
+    padding:8px 15px;
+    border-radius:4px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#0056b3;
+}
+
+.pending{
+    color:red;
+    font-weight:bold;
+}
+
+.progress{
+    color:orange;
+    font-weight:bold;
+}
+
+.resolved{
+    color:green;
+    font-weight:bold;
+}
+
+.rejected{
+    color:#555;
+    font-weight:bold;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Campus Issue Resolution System</h1>
+
+<nav>
+
+<a href="/">Home</a>
+
+<a href="/studentlogin">Student Login</a>
+
+<a href="/adminlogin">Admin Login</a>
+
+<a href="/logout">Logout</a>
+
+</nav>
+
+<h2>Admin Dashboard</h2>
+
+</header>
+
+<div class="container">
+
+<div class="sidebar">
+
+<a href="/admin_dashboard">🏠 Dashboard</a>
+
+<a href="/admin_change_password">🔒 Change Password</a>
+
+<a href="/logout">🚪 Logout</a>
+
+</div>
+
+<div class="content">
+
+<h2>Welcome, {{department}} Department</h2>
+
+<br>
+
+<div class="cards">
+
+<div class="card">
+<h3>Total Complaints</h3>
+<p>{{ total }}</p>
+</div>
+
+<div class="card">
+<h3>Pending</h3>
+<p>{{ pending }}</p>
+</div>
+
+<div class="card">
+<h3>In Progress</h3>
+<p>{{ progress }}</p>
+</div>
+
+<div class="card">
+<h3>Resolved</h3>
+<p>{{ resolved }}</p>
+</div>
+
+<div class="card">
+<h3>Rejected</h3>
+<p>{{ rejected }}</p>
+</div>
+
+</div>
+
+<h2 id="complaints">Complaint Details</h2>
+
+<br>
+
+<table>
+
+<tr>
+
+<th>ID</th>
+
+<th>Student</th>
+
+<th>Category</th>
+
+<th>Complaint Description</th>
+
+<th>Status</th>
+
+<th>Date</th>
+
+<th>Update</th>
+
+</tr>
+
+{% for c in complaints %}
+
+<tr>
+
+<td>{{ c.id }}</td>
+
+<td>{{ c.student_name }}</td>
+
+<td>{{ c.category }}</td>
+
+<td>{{ c.description }}</td>
+
+<td>
+
+{% if c.status=="Pending" %}
+<span class="pending">{{ c.status }}</span>
+
+{% elif c.status=="In Progress" %}
+<span class="progress">{{ c.status }}</span>
+
+{% elif c.status=="Resolved" %}
+<span class="resolved">{{ c.status }}</span>
+
+{% else %}
+<span class="rejected">{{ c.status }}</span>
+
+{% endif %}
+
+</td>
+
+<td>{{ c.created_at }}</td>
+
+<td>
+
+<form action="{{ url_for('update_status', id=c.id) }}" method="POST">
+
+<select name="status">
+
+<option value="Pending" {% if c.status=="Pending" %}selected{% endif %}>
+Pending
+</option>
+
+<option value="In Progress" {% if c.status=="In Progress" %}selected{% endif %}>
+In Progress
+</option>
+
+<option value="Resolved" {% if c.status=="Resolved" %}selected{% endif %}>
+Resolved
+</option>
+
+<option value="Rejected" {% if c.status=="Rejected" %}selected{% endif %}>
+Rejected
+</option>
+
+</select>
+
+<br><br>
+
+<button type="submit">Update</button>
+
+</form>
+
+</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+</div>
+
+</div>
+
+</body>
+</html>
+```

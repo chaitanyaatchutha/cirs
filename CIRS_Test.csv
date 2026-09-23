@@ -1,0 +1,81 @@
+Complaint,Department
+"fan in 204 making weird ticking noise feels like it will fall on my head",Electrical
+"power socket dead in seminar hall second row cant charge my laptop",Electrical
+"ac is blowing hot air in lab please check asap its suffocating",Electrical
+"huge spark came from the switchboard when i plugged my charger!! very dangerous",Electrical
+"light outside path is completely dark at night cant see anything",Electrical
+"fan regulator knob fell off stuck at full blast speed",Electrical
+"burnt plastic smell coming from near the fuse box in the corridor",Electrical
+"tube light keeps buzzing and flickering giving me a massive headache",Electrical
+"ac remote missing in 401 its stuck at 18 degrees freezing",Electrical
+"power cut in our block since 2 hours while other blocks have power",Electrical
+"door handle completely came off in my hand for washroom 2nd floor",Maintenance
+"bench desk screw loose tore my bag today fix it",Maintenance
+"tap won't shut water flowing non stop wasting so much water",Maintenance
+"window glass cracked someone hit a ball replace before it falls on someone",Maintenance
+"ceiling leaking water right on desk 12 due to heavy rain",Maintenance
+"lock jammed cant open room 305 key not turning at all",Maintenance
+"flush broken in ground floor toilet handle is stuck down",Maintenance
+"broken floor tile near the staircase almost tripped and fell today",Maintenance
+"blackboard has a huge crack in the middle chalk gets stuck",Maintenance
+"curtain rod fell down in audio visual room",Maintenance
+"vs code not opening in system 14 lab 2 throwing dll error",CSE
+"wifi not connecting in cse dept keeps saying obtaining ip address forever",CSE
+"projector showing no signal even after hdmi plugged in for seminar",CSE
+"keyboard missing backspace key on pc 28 lab 1",CSE
+"python pip command not working getting permission denied on lab machines",CSE
+"mouse sensor dead cursor jumping everywhere system 09",CSE
+"monitor screen glitching with green vertical lines cant see code",CSE
+"portal server down getting 500 internal server error when uploading assignment",CSE
+"slow internet speed can't even clone my github repo for project",CSE
+"system 4 won't boot getting blue screen of death during lab exam",CSE
+"cro display showing flat line even after connecting signal generator probe",ECE
+"multimeter battery dead showing random negative numbers",ECE
+"soldering iron tip is completely burnt not melting solder wire at all",ECE
+"8051 kit 7 segment display 2nd digit not lighting up",ECE
+"patch cords all broken inside no continuity in breadboard connections",ECE
+"ic 741 burnt smell coming during op amp experiment",ECE
+"breadboard rails loose components just falling out when testing",ECE
+"function generator knob stuck cant change frequency from 1khz",ECE
+"dso probe cable cut at the base need a replacement probe",ECE
+"power supply tripping overload buzzer immediately on 5v rail",ECE
+"someone threw coffee on the stairs 1st floor sticky and ants everywhere",Cleaning
+"toilet smells horrible on 3rd floor please get it cleaned urgent",Cleaning
+"dustbin overflowing near canteen stray dogs pulling trash out",Cleaning
+"washroom floor flooded with dirty water cant even step inside",Cleaning
+"dust all over the benches in 104 looks like not cleaned for weeks",Cleaning
+"no handwash liquid in dispenser empty since 3 days",Cleaning
+"dead pigeon lying behind the water cooler please remove asap",Cleaning
+"chewing gum stuck under desk 22 on my pants",Cleaning
+"mud tracks all over the corridor floor after the rain",Cleaning
+"leftover food plates left on discussion room table attracting flies",Cleaning
+"no hot water coming in 3rd floor geyser freezing cold showers in morning",Hostel
+"room 214 fan barely moving dying of heat at night",Hostel
+"washing machine 2 making loud bang and vibrating like crazy during spin",Hostel
+"water cooler dispensing warm brownish water cannot drink this",Hostel
+"monkeys entered the balcony because door latch is broken",Hostel
+"lift stuck on 4th floor with doors shut someone please check",Hostel
+"mattress given during check in is torn and smelling damp",Hostel
+"roommate got locked inside washroom because the bolt is jammed",Hostel
+"power tripped only in our room rest of the floor has lights",Hostel
+"water pressure in 4th floor washroom is completely zero",Hostel
+"group of students talking and laughing loudly in 2nd floor reading hall",Library
+"book showing available in catalog but missing from shelf 4a",Library
+"scanner at exit gate beeping at everyone even after returning books properly",Library
+"printer in digital library paper jam again ruined my assignment prints",Library
+"ac right above desk 15 dripping water drops directly on books",Library
+"barcode torn off from data structures textbook system won't issue it",Library
+"wifi speed is literally zero inside the reference section completely dead zone",Library
+"someone tore the last two chapters out of the ai reference book",Library
+"chair cushion torn metal spring poking into back",Library
+"fine added to my account even though i returned the book last friday",Library
+"lost my black wireless earbuds in college bus route 4",Others
+"lost my college id card near canteen can anyone please ping if found",Others
+"security guard being rude and not allowing entry even though i have id card",Others
+"sports ground grass overgrown cant play football or cricket",Others
+"college bus broke down near junction getting late for 9am exam",Others
+"where do i submit application for bonafide certificate for passport",Others
+"fee payment receipt not showing updated on student portal after paying",Others
+"stray dogs chasing bikes near main campus gate dangerous at night",Others
+"found a red water bottle near the auditorium stage",Others
+"canteen food quality is bad today found a hair in the food",Others

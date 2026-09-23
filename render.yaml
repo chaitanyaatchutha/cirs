@@ -1,0 +1,44 @@
+services:
+  - type: web
+    name: campus-complaint-system
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 120
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.14
+      - key: FLASK_SECRET_KEY
+        generateValue: true
+      - key: MYSQL_HOST
+        sync: false
+      - key: MYSQL_PORT
+        value: "3306"
+      - key: MYSQL_USER
+        sync: false
+      - key: MYSQL_PASSWORD
+        sync: false
+      - key: MYSQL_DATABASE
+        value: cirs
+      - key: SMTP_EMAIL
+        sync: false
+      - key: SMTP_APP_PASSWORD
+        sync: false
+      - key: EMAIL_ELECTRICAL
+        sync: false
+      - key: EMAIL_MAINTENANCE
+        sync: false
+      - key: EMAIL_CSE
+        sync: false
+      - key: EMAIL_ECE
+        sync: false
+      - key: EMAIL_CLEANING
+        sync: false
+      - key: EMAIL_HOSTEL
+        sync: false
+      - key: EMAIL_OTHERS
+        sync: false
+      - key: EMAIL_LIBRARY
+        sync: false
+      - key: ADMIN_DEFAULTS_JSON
+        sync: false

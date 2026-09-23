@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>New Complaint</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header{
+    background:#004080;
+    color:white;
+    padding:20px;
+}
+
+header h1{
+    text-align:center;
+}
+
+nav{
+    margin-top:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-size:18px;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+body{
+    margin:0;
+    background:#f4f7fc;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width:500px;
+    background:#fff;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+
+    margin:40px auto;
+}
+
+h2{
+    text-align:center;
+    color:#2c3e50;
+    margin-bottom:20px;
+}
+
+.form-group{
+    margin-bottom:15px;
+}
+
+label{
+    display:block;
+    margin-bottom:5px;
+    font-weight:bold;
+}
+
+input, textarea{
+    width:100%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    font-size:15px;
+}
+
+textarea{
+    resize:none;
+}
+
+input:focus,
+textarea:focus{
+    border-color:#007bff;
+    outline:none;
+}
+
+.btn{
+    width:100%;
+    padding:12px;
+    background:#007bff;
+    color:#fff;
+    border:none;
+    border-radius:5px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.btn:hover{
+    background:#0056b3;
+}
+
+.back{
+    display:block;
+    text-align:center;
+    margin-top:15px;
+    text-decoration:none;
+    color:#007bff;
+}
+</style>
+
+</head>
+<body>
+<header>
+    <h1>Campus Issue Resolution System</h1>
+
+    <nav>
+        <a href="/">Home</a>
+        <a href="/student_dashboard">Dashboard</a>
+        <a href="/new_complaint">New Complaint</a>
+        <a href="/complaint_status">Complaint Status</a>
+        <a href="/logout">Logout</a>
+    </nav>
+</header>
+<div class="container">
+
+<h2>Register Complaint</h2>
+
+<form action="/submit_complaint" method="POST">
+
+<div class="form-group">
+<label>Complaint Description</label>
+
+<textarea
+name="description"
+rows="8"
+placeholder="Describe your complaint..."
+required></textarea>
+
+</div>
+
+<button class="btn" type="submit">
+Submit Complaint
+</button>
+
+</form>
+
+<a href="/student_dashboard" class="back">
+← Back to Dashboard
+</a>
+
+</div>
+
+</body>
+</html>

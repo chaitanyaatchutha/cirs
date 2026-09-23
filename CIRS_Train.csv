@@ -1,0 +1,877 @@
+Complaint,Department
+Tap is leaking in First Floor.,Maintenance
+The desktop system keeps freezing.,CSE
+Hostel room needs cleaning in First Floor.,Hostel
+Water is not draining on campus.,Maintenance
+Broken classroom bench in Second Floor.,Maintenance
+The mess service needs attention in the second floor.,Hostel
+Campus area is dirty in Room 204.,Cleaning
+The library reading room fan has stopped.,Electrical
+Internet not working in lab in Room 101.,CSE
+Breadboard is damaged in First Floor.,ECE
+Water leaking from ceiling in Lab 1.,Maintenance
+socket problem,Electrical
+No water supply in hostel in First Floor.,Hostel
+Garbage not collected in Block B.,Cleaning
+There is a problem issuing a book in the classroom.,Library
+There are not enough seats in the library in the classroom.,Library
+Washroom is not clean in the second floor.,Cleaning
+An application is showing an error near the main building.,CSE
+ID card not issued in Room 204.,Others
+Software installation required in Block A.,CSE
+Mess food quality is poor in Lab 2.,Hostel
+Electrical wiring needs attention in Block B.,Electrical
+Monitor display is blank in Second Floor.,CSE
+Bad smell in corridor in Second Floor.,Cleaning
+Power socket not working in Lab 2.,Electrical
+Hostel WiFi not working in Second Floor.,Hostel
+tap leaking,Maintenance
+There is an issue in my hostel room.,Hostel
+Tube light flickering in CSE lab,Electrical
+Plumbing problem in Second Floor.,Maintenance
+water leakage,Maintenance
+Computer is not responding in the second floor.,CSE
+There is a problem with hostel mess food in Block A.,Hostel
+Hostel lift not working,Hostel
+software not working,CSE
+Book issue system not working in Admin Block.,Library
+fan problem,Electrical
+Electrical switch is damaged in the second floor.,Electrical
+Fan not working in hostel room in Block A.,Hostel
+The mess service needs attention in Room 204.,Hostel
+Mouse is not responding in Block B.,CSE
+Broken classroom bench in Room 101.,Maintenance
+Scholarship not received in Admin Block.,Others
+Power socket not working in ECE lab,Electrical
+Book return portal not working in Room 204.,Library
+Garbage not collected in Lab 2.,Cleaning
+Door needs repair.,Maintenance
+book problem,Library
+ece lab problem,ECE
+ID card not issued in Admin Block.,Others
+I cannot download my hall ticket in the second floor.,Others
+Broken classroom bench in First Floor.,Maintenance
+Classroom is very dirty in Block B.,Cleaning
+Book issue service is not working.,Library
+Microcontroller kit is not working in Room 204.,ECE
+The door is damaged in Room 204.,Maintenance
+Drinking water cooler not working in Lab 2.,Hostel
+Dustbins are overflowing in Block B.,Cleaning
+cse lab pc down,CSE
+Hostel bed needs repair in the classroom.,Hostel
+Computer network connection is down in the classroom.,CSE
+Signal generator is not working in Room 204.,ECE
+library card problem,Library
+Garbage not collected in Block A.,Cleaning
+Mouse is not responding in First Floor.,CSE
+room dirty,Cleaning
+Fan is not working in Second Floor.,Electrical
+General enquiry not resolved in Block B.,Others
+Tube light is not working in Block A.,Electrical
+The hostel room fan is not rotating.,Electrical
+Waste needs to be removed in Block B.,Cleaning
+A wiring problem was noticed on campus.,Electrical
+Arduino board not detected in First Floor.,ECE
+Power supply is interrupted.,Electrical
+The hostel internet connection is down in Block B.,Hostel
+Wall outlet is damaged in the first floor.,Electrical
+Staircase is dusty in Second Floor.,Cleaning
+library wifi problem,Library
+Wardrobe lock broken in hostel room,Hostel
+computer slow,CSE
+Function generator has a problem in the first floor.,ECE
+computer problem,CSE
+Garbage not collected in Room 101.,Cleaning
+Hostel room needs cleaning in Block B.,Hostel
+Ceiling light is not turning on near the main building.,Electrical
+Digital trainer board failed in Admin Block.,ECE
+The window needs repair.,Maintenance
+Keyboard not working in Lab 2.,CSE
+Wall has cracks in Block A.,Maintenance
+system problem,CSE
+Book return portal not working in Second Floor.,Library
+Book return portal not working in Lab 1.,Library
+Bonafide certificate delayed in Second Floor.,Others
+Fan is not working in Room 101.,Electrical
+Software installation is required in the first floor.,CSE
+Lab equipment is faulty in First Floor.,ECE
+There is a problem with my hall ticket in the first floor.,Others
+Hall ticket not generated in Room 204.,Others
+Bathroom is dirty in Lab 1.,Hostel
+Library internet not working in Admin Block.,Library
+repair problem,Maintenance
+The room needs cleaning in the lab.,Cleaning
+Lab equipment is faulty in Lab 1.,ECE
+Oscilloscope not working in Room 101.,ECE
+Bus pass issue in Lab 2.,Others
+Window glass is broken in Second Floor.,Maintenance
+application problem,Others
+Broken chair in seminar hall,Maintenance
+I have an issue with my college id card in the lab.,Others
+The system cannot connect to the network in Room 101.,CSE
+Bench is broken.,Maintenance
+Arduino kit is not working in Room 101.,ECE
+class fan problem,Electrical
+Switch board is damaged in Block B.,Electrical
+There is a problem with my bus pass.,Others
+Power socket not working in Room 101.,Electrical
+The oscilloscope display has a problem in the lab.,ECE
+Tube light not working in Lab 1.,Electrical
+light problem,Electrical
+Hostel WiFi not working,Hostel
+Fee payment portal not working in Admin Block.,Others
+The arduino setup has a problem in Block B.,ECE
+repair needed,Maintenance
+Arduino board not detected in Lab 1.,ECE
+Spider webs in seminar hall,Cleaning
+Tap needs repair.,Maintenance
+ece equipment not working,ECE
+No water supply in hostel bathroom,Hostel
+Wall has cracks in Lab 2.,Maintenance
+Room lock is broken in Second Floor.,Hostel
+library issue,Library
+Power socket not working in Admin Block.,Electrical
+Lab equipment is faulty in Second Floor.,ECE
+There is a drainage problem in Block B.,Maintenance
+There are not enough seats in the library.,Library
+I cannot issue a book in the classroom.,Library
+Water leaking from ceiling in Room 204.,Maintenance
+Fan not working in hostel room in Room 204.,Hostel
+There is an issue with the hostel washroom.,Hostel
+Water is not available in the hostel in the first floor.,Hostel
+Dust has accumulated in the lab on campus.,Cleaning
+Furniture is damaged in the first floor.,Maintenance
+Door lock is broken in Admin Block.,Maintenance
+There is an issue with my scholarship in the second floor.,Others
+Bad odour needs to be addressed in Block A.,Cleaning
+Classroom is very dirty in Room 204.,Cleaning
+Required book is unavailable in Block B.,Library
+Door hinge damaged in library,Maintenance
+System is running very slow in Block A.,CSE
+Dust has accumulated in the lab near the main building.,Cleaning
+The area has an unpleasant smell.,Cleaning
+Library wifi is unavailable in the second floor.,Library
+Toilet area is dirty near the main building.,Cleaning
+Computer has stopped working.,CSE
+Desktop system is not working near the main building.,CSE
+Library computer is not working.,Library
+The arduino setup has a problem in the classroom.,ECE
+Room lock is broken in Room 101.,Hostel
+Electricity is not available in the room in Room 204.,Electrical
+Keyboard not working in Lab 1.,CSE
+Generator backup failed in Block A.,Electrical
+Library internet not working in Lab 1.,Library
+Floor is dirty and needs cleaning in Room 101.,Cleaning
+Mouse is not responding in Room 204.,CSE
+arduino board not detected,ECE
+Student portal login is not working in the lab.,Others
+microcontroller problem,ECE
+Waste needs to be removed in the lab.,Cleaning
+Staircase is dusty in Block B.,Cleaning
+Ceiling light is not turning on in Room 101.,Electrical
+I cannot find the required book.,Library
+room wifi not working,Hostel
+Generator backup failed in Admin Block.,Electrical
+No water supply in hostel in Block A.,Hostel
+Wash basin damaged in canteen,Maintenance
+Broken classroom bench in Admin Block.,Maintenance
+There is an issue with my scholarship in Room 101.,Others
+The area is covered with dust on campus.,Cleaning
+Power outage in classroom in Block A.,Electrical
+Function generator faulty in Block A.,ECE
+Microcontroller board is not responding in the classroom.,ECE
+I cannot download my hall ticket in Room 204.,Others
+Power outage in classroom in Lab 2.,Electrical
+Breadboard setup is not working in Block B.,ECE
+Floor needs mopping in First Floor.,Cleaning
+The requested book is missing in Block B.,Library
+Window glass is broken in Room 204.,Maintenance
+Power outage in classroom in Lab 1.,Electrical
+Bonafide certificate delayed in Admin Block.,Others
+There is a problem with hostel mess food in Room 101.,Hostel
+Plug point is not working on campus.,Electrical
+Water tap is damaged in Block B.,Maintenance
+ID card not issued in First Floor.,Others
+Tap is leaking in Block A.,Maintenance
+There is an issue in my hostel room in Room 101.,Hostel
+Breadboard is damaged in Room 204.,ECE
+The bed in my hostel room is broken in Block A.,Hostel
+room water problem,Hostel
+Mess food quality is poor in First Floor.,Hostel
+Signal generator issue in Lab 1.,ECE
+switch not working,Electrical
+registration problem,Others
+Washroom needs cleaning in the first floor.,Cleaning
+Fan not working in CSE lab,Electrical
+Book issue system not working in Lab 2.,Library
+There is an issue with the wiring near the main building.,Electrical
+Library AC not working in Second Floor.,Library
+Window glass is broken in First Floor.,Maintenance
+A wiring problem was noticed in the first floor.,Electrical
+Breadboard is damaged.,ECE
+plug not working,Electrical
+The desktop system keeps freezing in Room 101.,CSE
+Digital trainer board failed in Second Floor.,ECE
+I cannot complete my student portal login.,Others
+Breadboard is damaged in Lab 1.,ECE
+Wall has cracks in Block B.,Maintenance
+Plumbing issue in hostel bathroom,Maintenance
+Internet not working in lab in Lab 1.,CSE
+Fee payment is not working in the classroom.,Others
+Bonafide certificate delayed in First Floor.,Others
+The ECE lab needs cleaning.,Cleaning
+Book issue system not working in Second Floor.,Library
+ID card not issued in Lab 2.,Others
+A wiring problem was noticed in Room 101.,Electrical
+Function generator has a problem in Room 204.,ECE
+Hostel bathroom has a problem.,Hostel
+Floor tiles broken in auditorium,Maintenance
+Insufficient seating in library in Admin Block.,Library
+Software is not working in Block A.,CSE
+book return problem,Library
+System is running very slowly in the first floor.,CSE
+Microcontroller board is not responding.,ECE
+Dustbins are overflowing in Lab 1.,Cleaning
+Bonafide certificate delayed in Block A.,Others
+There is a problem with my hall ticket in Block A.,Others
+Staircase is dusty in Room 204.,Cleaning
+Power outage in classroom in Room 101.,Electrical
+Microcontroller kit is not working in the first floor.,ECE
+Fee payment portal not working in Room 204.,Others
+The hostel internet connection is down in Room 204.,Hostel
+Dust has accumulated in the lab in Block B.,Cleaning
+Book issue service is not working in the first floor.,Library
+Loose electrical wiring in Block B.,Electrical
+Computer login is not working near the main building.,CSE
+document problem,Others
+There is an issue with the hostel washroom in Room 101.,Hostel
+Software installation is required in the lab.,CSE
+Toilet area is dirty in Block A.,Cleaning
+water not coming,Hostel
+Monitor display is blank in Block B.,CSE
+Arduino board is not detected near the main building.,ECE
+Loose electrical wiring in Second Floor.,Electrical
+Floor cleaning is required on campus.,Cleaning
+Bathroom is dirty in Block B.,Hostel
+Garbage not collected in First Floor.,Cleaning
+Fan is not working in Room 204.,Electrical
+Bonafide certificate delayed in Lab 2.,Others
+There is an issue in the reading room on campus.,Library
+plumbing problem,Maintenance
+Bus pass issue in Room 101.,Others
+Window glass is broken in Room 101.,Maintenance
+Window glass is broken in Lab 1.,Maintenance
+Insufficient seating in library in Block B.,Library
+I need help with a bonafide certificate on campus.,Others
+Bench is broken on campus.,Maintenance
+I cannot access the student portal in Room 101.,Others
+I cannot find a seat in the library.,Library
+Fan is not rotating in Block B.,Electrical
+Computer not starting in Lab 2.,CSE
+The desktop system keeps freezing in Room 204.,CSE
+Printer not working in Block A.,CSE
+Bonafide certificate delayed in Room 101.,Others
+Mouse is not responding in Admin Block.,CSE
+Electrical wiring needs attention in the second floor.,Electrical
+Power socket not working in Second Floor.,Electrical
+Power socket not working in Lab 1.,Electrical
+Library AC not working in Block A.,Library
+Toilet area is dirty in the second floor.,Cleaning
+Washroom needs cleaning in Lab 2.,Cleaning
+Tap is leaking in Admin Block.,Maintenance
+Hostel WiFi not working in Block B.,Hostel
+Electronic circuit is not working in Room 204.,ECE
+Book issue system not working in First Floor.,Library
+Switch board is damaged in Second Floor.,Electrical
+Computer system is hanging.,CSE
+No water supply in hostel in Admin Block.,Hostel
+There is a water supply problem in the hostel in the classroom.,Hostel
+Microcontroller board is not responding near the main building.,ECE
+class dirty,Cleaning
+oscilloscope problem,ECE
+Microcontroller kit not working in Admin Block.,ECE
+Hall ticket has not been generated in Room 204.,Others
+Tap needs repair in Block A.,Maintenance
+Tube light not working in Block B.,Electrical
+Door is broken in Block B.,Maintenance
+Computer is not starting.,CSE
+Scholarship not received in Room 204.,Others
+I cannot use wifi in the hostel in the lab.,Hostel
+Computer not starting in Room 204.,CSE
+Bad odour needs to be addressed in Room 101.,Cleaning
+Wall has cracks in Room 204.,Maintenance
+Hostel WiFi not working in Block A.,Hostel
+There is an issue in the reading room in the classroom.,Library
+Oscilloscope not working in Admin Block.,ECE
+Reading room has a problem in Block B.,Library
+Switch board is damaged in Room 204.,Electrical
+Mouse is not responding in Block A.,CSE
+Computer is not responding.,CSE
+There is an issue with the wiring in the classroom.,Electrical
+Bathroom not cleaned in hostel,Hostel
+Reading room has a problem.,Library
+The system cannot connect to the network in Block B.,CSE
+Garbage not collected in Room 204.,Cleaning
+Oscilloscope not working in Lab 1.,ECE
+A pipe is leaking near the main building.,Maintenance
+Reading room has a problem in the second floor.,Library
+The mess service needs attention in the first floor.,Hostel
+Tube light not working in Block A.,Electrical
+Hall ticket not generated in Second Floor.,Others
+Monitor display is blank in Admin Block.,CSE
+Breadboard setup is not working in the classroom.,ECE
+Power supply is interrupted in Block B.,Electrical
+Power socket not working in Block A.,Electrical
+Reading room is noisy in Block B.,Library
+I need help with a bonafide certificate in Room 204.,Others
+Water tap is damaged in the first floor.,Maintenance
+Student portal login is not working.,Others
+Floor needs mopping in Room 204.,Cleaning
+Classroom needs cleaning,Cleaning
+Scholarship payment has not been received in Block B.,Others
+cleaning problem,Cleaning
+Printer not working in Block B.,CSE
+Hostel water supply is interrupted in the second floor.,Hostel
+There is a bad smell in the room in the classroom.,Cleaning
+Oscilloscope is not working in the lab.,ECE
+Generator backup failed in Second Floor.,Electrical
+Switch is not responding in Block A.,Electrical
+Software is not working.,CSE
+Library computer not working in Block A.,Library
+The light has gone out.,Electrical
+Water leaking from ceiling in Admin Block.,Maintenance
+fan not working,Electrical
+Electrical wiring needs attention in Room 204.,Electrical
+Reading room facilities need attention in the second floor.,Library
+The window needs repair in the classroom.,Maintenance
+Broken classroom bench in Lab 2.,Maintenance
+book not available,Library
+Computer login is not working in the classroom.,CSE
+Wall has cracks in Room 101.,Maintenance
+The area is covered with dust in the lab.,Cleaning
+Book return portal not working in Room 101.,Library
+Hostel WiFi not working in Admin Block.,Hostel
+book issue,Library
+Arduino board not detected in Room 204.,ECE
+electronics kit problem,ECE
+door problem,Maintenance
+There is seepage from the ceiling.,Maintenance
+Library internet not working in Block B.,Library
+Breadboard setup is not working.,ECE
+Bus pass has not been issued.,Others
+Plug point is not working in the second floor.,Electrical
+I cannot log in to the lab computer in Block B.,CSE
+Computer lab printer is not working in Room 101.,CSE
+Dustbins are overflowing in Block A.,Cleaning
+Mess food quality is poor in Room 101.,Hostel
+Door lock is broken in Room 101.,Maintenance
+Software installation required in Lab 1.,CSE
+lab cleaning problem,Cleaning
+Fee payment portal not working in Lab 2.,Others
+General enquiry not resolved in Second Floor.,Others
+I cannot issue a book in Block A.,Library
+Printer not working in Admin Block.,CSE
+Reading room is noisy in First Floor.,Library
+Roof seepage issue in Room 101.,Maintenance
+Light not working in hostel corridor,Electrical
+Light is flickering in Lab 1.,Electrical
+Dustbins are overflowing in First Floor.,Cleaning
+Room lock is broken in Admin Block.,Hostel
+Mess food is not good.,Hostel
+not clean,Cleaning
+electricity problem,Electrical
+There is a lot of dust in the room in Room 204.,Cleaning
+breadboard problem,ECE
+There is a problem issuing a book in Block B.,Library
+Tube light not working in Room 204.,Electrical
+Monitor display is blank in Room 101.,CSE
+Electrical wiring issue in admin block,Electrical
+Mosquito problem in hostel room,Hostel
+The library door is damaged.,Maintenance
+The hostel door needs repair.,Maintenance
+Hostel bed needs repair in Block B.,Hostel
+No water supply in hostel in Room 204.,Hostel
+Floor cleaning is required in the classroom.,Cleaning
+hostel room problem,Hostel
+Reading room is noisy in Lab 1.,Library
+Dustbins are overflowing in the second floor.,Cleaning
+The hostel internet connection is down.,Hostel
+Light is flickering in Block B.,Electrical
+Water is leaking from the ceiling.,Maintenance
+Reading room facilities need attention on campus.,Library
+The hostel room needs attention.,Hostel
+Required book is unavailable in Block A.,Library
+Scholarship payment has not been received in the first floor.,Others
+pc issue,CSE
+System is running very slow in Second Floor.,CSE
+Software installation required in First Floor.,CSE
+Tap is leaking in the first floor.,Maintenance
+Ceiling has a leak on campus.,Maintenance
+The hostel WiFi is not working.,Hostel
+Water leaking from ceiling in library,Maintenance
+Plumbing problem in Room 101.,Maintenance
+Monitor display is blank in Block A.,CSE
+Function generator has a problem in Room 101.,ECE
+I cannot use wifi in the hostel.,Hostel
+Microcontroller kit not working in Block A.,ECE
+Signal generator is not working on campus.,ECE
+There is a problem with fee payment in Block B.,Others
+Door lock broken in classroom,Maintenance
+There is a problem with book return.,Library
+Classroom is very dirty in First Floor.,Cleaning
+Library AC not working in Room 101.,Library
+The light has gone out in the second floor.,Electrical
+Microcontroller kit not working in Room 101.,ECE
+There is a power problem in the room in Room 101.,Electrical
+Book issue service is not working in the classroom.,Library
+There is a plumbing problem in Block B.,Maintenance
+Ceiling has a leak.,Maintenance
+There is a problem with book return in the lab.,Library
+System is running very slow in Lab 1.,CSE
+Insufficient seating in library in Lab 2.,Library
+Arduino kit is not working.,ECE
+Software is not working in Room 101.,CSE
+Auditorium requires cleaning,Cleaning
+Mess food quality is poor in Second Floor.,Hostel
+I cannot access the student portal.,Others
+Fan is not working in Lab 2.,Electrical
+Internet not working in lab in Block B.,CSE
+General enquiry not resolved in Room 101.,Others
+Water is not available in the hostel.,Hostel
+hostel bathroom problem,Hostel
+The light has gone out in Room 101.,Electrical
+Hostel bathroom has a problem in Room 204.,Hostel
+Signal generator issue in Admin Block.,ECE
+Campus area is dirty in Lab 2.,Cleaning
+Tap is leaking in Lab 2.,Maintenance
+Switch is not responding in Block B.,Electrical
+Required book is unavailable in Room 101.,Library
+I have an issue with my college id card in Room 101.,Others
+Insufficient seating in library in Room 204.,Library
+The floor is dusty near the main building.,Cleaning
+fan stopped,Electrical
+Fan not working in hostel room in Second Floor.,Hostel
+Plumbing problem in First Floor.,Maintenance
+Loose electrical wiring in Room 101.,Electrical
+Reading room has a problem in the first floor.,Library
+I cannot use wifi in the hostel in Block A.,Hostel
+Washroom near library needs cleaning,Cleaning
+Classroom light is flickering in Block A.,Electrical
+Door is broken in Room 204.,Maintenance
+Signal generator issue in First Floor.,ECE
+Hostel corridor lights not working,Hostel
+Book return portal not working in First Floor.,Library
+Bonafide certificate delayed in Block B.,Others
+Plumbing problem in Block B.,Maintenance
+Tube light is not working in Block B.,Electrical
+Campus area is dirty in Block A.,Cleaning
+Water leaking from ceiling in Block A.,Maintenance
+Lab network is not working.,CSE
+Furniture is damaged in Block A.,Maintenance
+Printer connected to the lab system has a problem in Block B.,CSE
+Plug point is not working in Block B.,Electrical
+bulb not working,Electrical
+I cannot find a seat in the library in the classroom.,Library
+Power socket not working in Room 204.,Electrical
+Broken classroom bench in Block A.,Maintenance
+Signal generator issue in Room 101.,ECE
+tube light problem,Electrical
+Door is broken.,Maintenance
+Room lock is broken in Room 204.,Hostel
+Drinking water cooler not working in Room 204.,Hostel
+Microcontroller kit is not working.,ECE
+Classroom is very dirty in Admin Block.,Cleaning
+Function generator faulty in Admin Block.,ECE
+Electronic circuit is not working near the main building.,ECE
+I cannot issue a book.,Library
+Study room lights not working in hostel,Hostel
+hostel wifi down,Hostel
+Library internet not working in Second Floor.,Library
+Scholarship not received in Room 101.,Others
+The hostel water supply is unavailable.,Hostel
+Switch board is damaged in Lab 2.,Electrical
+hostel light problem,Hostel
+Furniture is damaged in Block B.,Maintenance
+Switch is broken.,Electrical
+Arduino board not detected in Second Floor.,ECE
+Door lock is broken in First Floor.,Maintenance
+Oscilloscope is not working on campus.,ECE
+Electronic circuit is not working.,ECE
+Breadboard is damaged in Block A.,ECE
+Ceiling fan has stopped in Room 101.,Electrical
+Library computer is not working near the main building.,Library
+Washroom needs cleaning in Second Floor.,Cleaning
+There is a problem getting my certificate in the second floor.,Others
+Switch is broken in the first floor.,Electrical
+Insufficient seating in library in Lab 1.,Library
+Loose electrical wiring in First Floor.,Electrical
+Hall ticket not generated in Block B.,Others
+Power socket not working in First Floor.,Electrical
+The hostel bathroom needs attention.,Hostel
+Bathroom is dirty in First Floor.,Hostel
+Broken classroom bench in Block B.,Maintenance
+I cannot complete the fee payment in Block A.,Others
+Switch board is damaged in Room 101.,Electrical
+A pipe is leaking.,Maintenance
+Required book is unavailable in Second Floor.,Library
+Insufficient seating in library in Room 101.,Library
+Window glass is broken in the lab.,Maintenance
+garbage not removed,Cleaning
+Staircase is dusty in Lab 2.,Cleaning
+Internet in the library is not working in Room 101.,Library
+I cannot find a seat in the library in the second floor.,Library
+Washroom is not clean in Block B.,Cleaning
+lab needs cleaning,Cleaning
+portal problem,Others
+The oscilloscope display has a problem.,ECE
+Bed damaged in hostel room,Hostel
+Door lock is broken in Second Floor.,Maintenance
+Switch board is damaged in Lab 1.,Electrical
+Switch board is damaged in Block A.,Electrical
+Breadboard is damaged in Block B.,ECE
+Window glass broken in CSE lab,Maintenance
+library book problem,Library
+There is a problem getting my certificate on campus.,Others
+The hostel room needs attention in Room 204.,Hostel
+ac power problem,Electrical
+Door lock is broken in Lab 1.,Maintenance
+Breadboard is damaged in Admin Block.,ECE
+Monitor display is blank in Lab 2.,CSE
+There is a problem with fee payment in the first floor.,Others
+Printer connected to the lab system has a problem in the second floor.,CSE
+Tap needs repair in Room 101.,Maintenance
+Hall ticket not generated in Lab 2.,Others
+There is a water supply problem in the hostel in Room 204.,Hostel
+Hostel water supply is interrupted near the main building.,Hostel
+Book return portal not working in Admin Block.,Library
+System is running very slow in Room 204.,CSE
+The hostel room needs attention near the main building.,Hostel
+Bus pass has not been issued in the first floor.,Others
+Garbage not collected in Lab 1.,Cleaning
+There is a power problem in the room.,Electrical
+Room lock broken in hostel room,Hostel
+Software is not working in the lab.,CSE
+Tube light not working in Lab 2.,Electrical
+Student id card has a problem.,Others
+Table needs repair.,Maintenance
+login not working,CSE
+Hostel wifi is not working.,Hostel
+Roof seepage issue in Block B.,Maintenance
+id card problem,Others
+System is running very slowly.,CSE
+Digital trainer board failed in Room 204.,ECE
+Fan not working in hostel room in Block B.,Hostel
+Printer not working in Lab 1.,CSE
+Hostel WiFi not working in Room 101.,Hostel
+Roof seepage issue in First Floor.,Maintenance
+floor dirty,Cleaning
+Washroom needs cleaning in the second floor.,Cleaning
+There is a plumbing problem.,Maintenance
+Mess food quality is poor in Room 204.,Hostel
+Staircase is dusty in Block A.,Cleaning
+Software installation is required in Block A.,CSE
+Water leaking from ceiling in Block B.,Maintenance
+Book issue system not working in Lab 1.,Library
+System is running very slow in Lab 2.,CSE
+Floor cleaning is required.,Cleaning
+Library AC not working in First Floor.,Library
+Library wifi is unavailable in Block A.,Library
+Keyboard not working in Room 101.,CSE
+table broken,Maintenance
+Bathroom is dirty in Room 204.,Hostel
+room not clean,Cleaning
+Computer at the library is not starting in Room 101.,Library
+Hostel bathroom tap is leaking,Hostel
+Fan is making a strange noise.,Electrical
+No water supply in hostel in Lab 1.,Hostel
+Roof seepage issue in Lab 2.,Maintenance
+Fee payment is not working in Block B.,Others
+Room lock is broken in Lab 1.,Hostel
+Drainage blockage near canteen,Maintenance
+Bench is broken near the main building.,Maintenance
+Fee payment portal not working in Second Floor.,Others
+Switch is not responding.,Electrical
+Scholarship not received in Block B.,Others
+light flickering,Electrical
+Drainage is blocked.,Maintenance
+internet in cse lab not working,CSE
+Function generator faulty in First Floor.,ECE
+Lab equipment is faulty in Block B.,ECE
+Washroom is not clean.,Cleaning
+Ceiling plaster falling in corridor,Maintenance
+Hostel bed needs repair in the second floor.,Hostel
+General enquiry not resolved in First Floor.,Others
+fee problem,Others
+Classroom is very dirty in Room 101.,Cleaning
+Website login problem in Room 101.,Others
+lock broken,Maintenance
+Scholarship not received in Lab 2.,Others
+ID card not issued in Second Floor.,Others
+General enquiry not resolved in Room 204.,Others
+Book issue system not working in Room 101.,Library
+Internet in the library is not working in the lab.,Library
+Table needs repair in the lab.,Maintenance
+Power supply is interrupted in Room 101.,Electrical
+Fan not working in hostel room in Lab 2.,Hostel
+Microcontroller kit not working in Lab 1.,ECE
+Library computer not working in Room 101.,Library
+Washroom needs cleaning in Admin Block.,Cleaning
+Microcontroller kit not working in First Floor.,ECE
+Keyboard not working in Second Floor.,CSE
+Wall has cracks in First Floor.,Maintenance
+Library AC not working in Admin Block.,Library
+Book is not available in Room 204.,Library
+Hall ticket has not been generated.,Others
+Staircase is dusty,Cleaning
+Internet not working in lab in Admin Block.,CSE
+computer not working,CSE
+Computer has stopped working in the classroom.,CSE
+I cannot download my hall ticket.,Others
+Desktop system is not working in the second floor.,CSE
+Library computer not working in Lab 2.,Library
+The library washroom needs cleaning.,Cleaning
+There is a problem with my bus pass in the first floor.,Others
+There are not enough seats in the library in the first floor.,Library
+Canteen tables are dirty,Cleaning
+Website login problem in Room 204.,Others
+Water is not available in the hostel in Room 101.,Hostel
+Computer not starting in Room 101.,CSE
+Room lock is broken in Block B.,Hostel
+component problem,ECE
+Arduino kit is not working in the lab.,ECE
+corridor dirty,Cleaning
+Plug point is not working.,Electrical
+Oscilloscope is not working.,ECE
+Function generator faulty in Lab 1.,ECE
+cannot borrow book,Library
+The bed in my hostel room is broken in Block B.,Hostel
+The hostel bathroom needs attention on campus.,Hostel
+Campus pathway is littered,Cleaning
+Garbage not collected in Admin Block.,Cleaning
+Computer lab needs cleaning,Cleaning
+Computer lab printer is not working on campus.,CSE
+I cannot find the required book in the second floor.,Library
+Floor needs mopping in Admin Block.,Cleaning
+The library internet connection is down.,Library
+Arduino board is not detected.,ECE
+Ceiling fan not rotating in canteen,Electrical
+Water is not available in the hostel in Block B.,Hostel
+Roof seepage issue in Block A.,Maintenance
+Computer network connection is down.,CSE
+Lab equipment is faulty in Block A.,ECE
+Oscilloscope not working in Second Floor.,ECE
+There is a problem with my hall ticket.,Others
+Mess food quality is poor in Lab 1.,Hostel
+Scholarship payment has not been received.,Others
+The room needs cleaning in Block B.,Cleaning
+There is an issue in my hostel room in the lab.,Hostel
+Bus pass issue in First Floor.,Others
+Hostel room needs cleaning in Room 204.,Hostel
+Hostel water supply is interrupted in Room 101.,Hostel
+Printer connected to the lab system has a problem on campus.,CSE
+Tap is leaking in Room 204.,Maintenance
+Hostel room needs cleaning in Block A.,Hostel
+Loose electrical wiring in Lab 1.,Electrical
+library computer problem,Library
+Campus area is dirty in First Floor.,Cleaning
+Keyboard not working in Admin Block.,CSE
+The area has an unpleasant smell in the lab.,Cleaning
+A pipe is leaking on campus.,Maintenance
+Electricity is not available in the room in Room 101.,Electrical
+Computer login is not working in Room 204.,CSE
+Water pipe leakage in ECE lab,Maintenance
+The door is damaged in Block A.,Maintenance
+Bad odour needs to be addressed.,Cleaning
+Mess food is not good in Room 101.,Hostel
+hostel food problem,Hostel
+hostel water problem,Hostel
+Floor needs mopping in Block B.,Cleaning
+Microcontroller kit not working in Block B.,ECE
+Keyboard not working in Room 204.,CSE
+Software installation required in Room 204.,CSE
+Computer is not responding near the main building.,CSE
+There is a drainage problem in Room 101.,Maintenance
+Drainage is blocked in the lab.,Maintenance
+admission problem,Others
+I cannot issue a book in the second floor.,Library
+Bonafide certificate delayed in Room 204.,Others
+Library computer not working in Lab 1.,Library
+Arduino board is not detected in Block B.,ECE
+Microcontroller kit not working in Second Floor.,ECE
+Printer not working in Room 101.,CSE
+A wiring problem was noticed.,Electrical
+Drinking water cooler not working in Room 101.,Hostel
+There is an issue with my scholarship.,Others
+Monitor display is blank in First Floor.,CSE
+Tube light not working in Admin Block.,Electrical
+Generator backup failed in Lab 2.,Electrical
+Classroom is very dirty in Lab 1.,Cleaning
+room door problem,Maintenance
+Plumbing needs repair near the main building.,Maintenance
+Computer is not responding in Room 204.,CSE
+Power socket is not working in the second floor.,Electrical
+Floor needs mopping in Lab 1.,Cleaning
+Hostel bed is damaged in Block B.,Hostel
+Library computer not working in Admin Block.,Library
+Computer is not starting in the classroom.,CSE
+Lab equipment is faulty in Lab 2.,ECE
+The library computer will not start.,Library
+There is seepage from the ceiling in the second floor.,Maintenance
+Function generator faulty in Lab 2.,ECE
+Waste needs to be removed in Room 101.,Cleaning
+Bad smell in corridor in Admin Block.,Cleaning
+Hostel wifi is not working on campus.,Hostel
+classroom dirty,Cleaning
+Garbage has not been collected in the lab.,Cleaning
+Website login problem in First Floor.,Others
+Library internet not working in Room 101.,Library
+Computer lab printer is not working in Block A.,CSE
+lab computer issue,CSE
+Light is flickering in Lab 2.,Electrical
+Bad odour needs to be addressed in the second floor.,Cleaning
+arduino problem,ECE
+Room lock is broken in Lab 2.,Hostel
+Projector power socket not working in seminar hall,Electrical
+Breadboard is damaged in Room 101.,ECE
+A pipe is leaking in the classroom.,Maintenance
+Plumbing problem in Block A.,Maintenance
+Lab network is not working in Block A.,CSE
+The ECE laboratory light is not turning on.,Electrical
+Ceiling has a leak in the lab.,Maintenance
+No water supply in hostel in Lab 2.,Hostel
+Classroom is dirty.,Cleaning
+I cannot download my hall ticket in the first floor.,Others
+Door lock is broken in Block A.,Maintenance
+Light is flickering in Block A.,Electrical
+The requested book is missing in Block A.,Library
+Generator backup failed in First Floor.,Electrical
+Plumbing needs repair in Block B.,Maintenance
+Wall has cracks in Admin Block.,Maintenance
+hostel room fan problem,Hostel
+Electrical switch is damaged.,Electrical
+Library AC not working in Room 204.,Library
+Dustbins are overflowing near the main building.,Cleaning
+There is a plumbing problem in the lab.,Maintenance
+Exhaust fan not working in washroom,Electrical
+The system cannot connect to the network in the second floor.,CSE
+Software installation required in Second Floor.,CSE
+There is a water supply problem in the hostel.,Hostel
+Washroom is very dirty,Cleaning
+I cannot complete the fee payment in Room 204.,Others
+The door is damaged.,Maintenance
+Keyboard not working in Block A.,CSE
+Breadboard setup is not working in the lab.,ECE
+Toilet area is dirty.,Cleaning
+CSE lab is dusty,Cleaning
+Fan not working in hostel room in Admin Block.,Hostel
+Door is broken in the first floor.,Maintenance
+Bad smell in corridor in Lab 1.,Cleaning
+Internet not working in lab in Room 204.,CSE
+Water tap is damaged.,Maintenance
+There is a problem with my bus pass on campus.,Others
+Bad smell in corridor in First Floor.,Cleaning
+chair broken,Maintenance
+Library computer not working in Block B.,Library
+The hostel room needs attention in the second floor.,Hostel
+Power outage in auditorium,Electrical
+Power outage in classroom in Room 204.,Electrical
+Bathroom is dirty in Lab 2.,Hostel
+Hall ticket not generated in Room 101.,Others
+Light is flickering in Admin Block.,Electrical
+computer login problem,CSE
+library login problem,Library
+water supply problem,Hostel
+Signal generator issue in Block B.,ECE
+Library internet not working in Block A.,Library
+Window is damaged in Block B.,Maintenance
+There is a lot of dust in the room near the main building.,Cleaning
+Fan is not working in First Floor.,Electrical
+Hostel water supply is interrupted.,Hostel
+There is a bad smell in the room.,Cleaning
+The room needs cleaning.,Cleaning
+Signal generator is not working in Room 101.,ECE
+Power outage in classroom in Block B.,Electrical
+furniture broken,Maintenance
+Plug point damaged in computer lab,Electrical
+I am unable to return a book in Block A.,Library
+I cannot log in to the lab computer in the first floor.,CSE
+Campus area is dirty in Second Floor.,Cleaning
+There is a power problem in the room in the first floor.,Electrical
+Required book is unavailable in Admin Block.,Library
+I need help with a bonafide certificate in the lab.,Others
+Generator backup failed in Room 101.,Electrical
+Book issue system not working in Room 204.,Library
+Door needs repair near the main building.,Maintenance
+Fan not working in library,Electrical
+Website login problem in Block A.,Others
+Water tap is damaged in Block A.,Maintenance
+Oscilloscope not working in Block A.,ECE
+Digital trainer board failed in First Floor.,ECE
+Hostel room needs cleaning in Lab 2.,Hostel
+System is running very slow in Block B.,CSE
+Monitor display is blank in Room 204.,CSE
+Switch board is damaged in First Floor.,Electrical
+Fee payment portal not working in Block A.,Others
+Internet in the library is not working in Room 204.,Library
+The floor is dusty in Room 101.,Cleaning
+Classroom is very dirty in Lab 2.,Cleaning
+Hall ticket not generated in Lab 1.,Others
+Washroom is not clean in Block A.,Cleaning
+General enquiry not resolved in Lab 1.,Others
+Switch is broken on campus.,Electrical
+Hostel bed is damaged near the main building.,Hostel
+Ceiling has a leak in Room 101.,Maintenance
+scholarship problem,Others
+Library AC not working in Lab 2.,Library
+There is a bad smell in the room in Block B.,Cleaning
+Library seating is a problem in Room 204.,Library
+lab dirty,Cleaning
+Floor is dirty and needs cleaning near the main building.,Cleaning
+Power outage in classroom in First Floor.,Electrical
+Classroom light is flickering in Room 101.,Electrical
+electronics lab issue,ECE
+tube light off,Electrical
+I have an issue with my college id card on campus.,Others
+Printer not working in Second Floor.,CSE
+Tap is leaking near the main building.,Maintenance
+Campus area is dirty in Admin Block.,Cleaning
+Library wifi is unavailable.,Library
+Hall ticket not generated in Block A.,Others
+Computer not starting in Second Floor.,CSE
+The door is damaged in the classroom.,Maintenance
+website problem,CSE
+The microcontroller board has stopped working.,ECE
+Bus pass has not been issued in Block B.,Others
+certificate problem,Others
+Lab equipment is faulty in Admin Block.,ECE
+There is a drainage problem in Block A.,Maintenance
+There is a problem with book return in the first floor.,Library
+Computer lab printer is not working.,CSE
+Power outage in classroom in Second Floor.,Electrical
+Campus area is dirty in Room 101.,Cleaning
+Window is damaged in the lab.,Maintenance
+attendance issue,Others
+Fan is making a strange noise in Block A.,Electrical
+lab pc problem,CSE
+There is a problem with fee payment.,Others
+Digital trainer board failed in Lab 1.,ECE
+Insufficient seating in library in Second Floor.,Library
+Garbage not collected in Second Floor.,Cleaning
+Keyboard not working in Block B.,CSE
+There is seepage from the ceiling in Room 204.,Maintenance
+Library floor is dirty,Cleaning
+Circuit board has a fault in Block B.,ECE
+Fee payment is not working.,Others
+Floor is dirty and needs cleaning in Room 204.,Cleaning
+Scholarship not received in First Floor.,Others
+Floor is dirty and needs cleaning.,Cleaning
+exam form problem,Others
+Fee payment portal not working in Lab 1.,Others
+Reading room is noisy in Block A.,Library
+Mess food quality is poor in Block B.,Hostel
+Fan not working in hostel room in Lab 1.,Hostel
+Scholarship payment has not been received in the second floor.,Others
+Reading room is noisy in Room 204.,Library
+Classroom is dirty in the first floor.,Cleaning
+Function generator faulty in Block B.,ECE
+Electronics lab equipment has a problem in Block A.,ECE

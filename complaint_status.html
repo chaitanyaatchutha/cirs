@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Complaint Status</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin:0;
+    background:#f4f7fc;
+}
+
+/* Header */
+
+header{
+    background:#004080;
+    color:white;
+    padding:20px;
+}
+
+header h1{
+    text-align:center;
+}
+
+nav{
+    margin-top:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-size:18px;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+/* Container */
+
+.container{
+    width:95%;
+    max-width:1100px;
+    margin:40px auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+}
+
+h2{
+    text-align:center;
+    color:#2c3e50;
+    margin-bottom:25px;
+}
+
+/* Table */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+table th{
+    background:#007bff;
+    color:white;
+    padding:15px;
+}
+
+table td{
+    padding:12px;
+    border-bottom:1px solid #ddd;
+    text-align:center;
+}
+
+table tr:nth-child(even){
+    background:#f8f9fa;
+}
+
+table tr:hover{
+    background:#eef5ff;
+}
+
+/* Status */
+
+.pending{
+    color:#dc3545;
+    font-weight:bold;
+}
+
+.progress{
+    color:#ff9800;
+    font-weight:bold;
+}
+
+.resolved{
+    color:#28a745;
+    font-weight:bold;
+}
+
+/* Button */
+
+.back-btn{
+    display:inline-block;
+    margin-top:25px;
+    padding:12px 20px;
+    background:#007bff;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+.back-btn:hover{
+    background:#0056b3;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Campus Issue Resolution System</h1>
+
+<nav>
+    <a href="/">Home</a>
+    <a href="/student_dashboard">Dashboard</a>
+    <a href="/new_complaint">New Complaint</a>
+    <a href="/complaint_status">Complaint Status</a>
+    <a href="/logout">Logout</a>
+</nav>
+
+</header>
+
+<div class="container">
+
+<h2>Complaint Status</h2>
+
+<table>
+
+<tr>
+<th>Complaint ID</th>
+<th>Category</th>
+<th>Description</th>
+<th>Date</th>
+<th>Status</th>
+</tr>
+
+{% if complaints %}
+
+{% for c in complaints %}
+
+<tr>
+
+<td>{{ c.id }}</td>
+
+<td>{{ c.category }}</td>
+
+<td>{{ c.description }}</td>
+
+<td>{{ c.created_at }}</td>
+
+<td>
+
+{% if c.status == "Pending" %}
+
+<span class="pending">
+{{ c.status }}
+</span>
+
+{% elif c.status == "In Progress" %}
+
+<span class="progress">
+{{ c.status }}
+</span>
+
+{% elif c.status == "Resolved" %}
+
+<span class="resolved">
+{{ c.status }}
+</span>
+
+{% else %}
+
+{{ c.status }}
+
+{% endif %}
+
+</td>
+
+</tr>
+
+{% endfor %}
+
+{% else %}
+
+<tr>
+
+<td colspan="6">
+No complaints found.
+</td>
+
+</tr>
+
+{% endif %}
+
+</table>
+
+<a href="/student_dashboard" class="back-btn">
+← Back to Dashboard
+</a>
+
+</div>
+
+</body>
+</html>
